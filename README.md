@@ -26,6 +26,8 @@ f2e-toolbox
 ### Photoshop plugins：
 
  - [Ink](http://ink.chrometaphore.com/) 图层尺寸丈量、字体信息和颜色等
+ - [GuideGuide](http://guideguide.me/) 网格工具，一个用处是如果不用sprite生成工具，可以先布置好网格，然后把小图标一个一个放入网格里，这样手动合成sprite图
+ - [Cut&Slice me](http://www.cutandslice.me/) 自动切图导出，并有对retina的支持
 
 Photoshop CC 有复制CSS功能
 
