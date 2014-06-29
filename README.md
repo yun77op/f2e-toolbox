@@ -74,6 +74,7 @@ examples:
 
  - 模拟服务器 [grunt-fmpp](https://github.com/yun77op/grunt-fmpp)
  - [配置完整的后端环境](http://yun77op.gitcafe.com/2014/05/09/setup-local-java-webapp-environment-using-maven-for-f2e/)
+ - HTML 静态文件局部模板批量更新工具 [iTag](https://github.com/aui/itag)
 
 ### Grunt
 
@@ -84,3 +85,8 @@ examples:
 
  - 前端异常监控 [cfail](https://github.com/yun77op/cfail)
  - 性能监控
+
+
+### API
+
+http://apiblueprint.org/
